@@ -10,3 +10,4 @@ type
 
   RpcBindError* = object of JsonRpcError
   RpcAddressUnresolvableError* = object of JsonRpcError
+
